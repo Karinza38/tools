@@ -1,4 +1,4 @@
-FX's scripts for science and chemistry
+ FX's scripts for science and chemistry
 ======================================
 
 This rep contains scripts that I use regularly, in the hope that others
